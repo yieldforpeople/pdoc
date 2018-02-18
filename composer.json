@@ -5,12 +5,12 @@
   "homepage": "https://github.com/yieldforpeople/pdoc",
   "support": {
     "issues": "https://github.com/yieldforpeople/pdoc/issues",
-    "source": "https://github.com/yieldforpeople/pdoc",
+    "source": "https://github.com/yieldforpeople/pdoc"
   },
   "authors": [
     {
       "name": "Jason Silkey",
-      "email": "jason@jasonsilkey.com"
+      "email": "jason@yieldforpeople.com"
     }
   ],
   "bin": [
