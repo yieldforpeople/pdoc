@@ -1,0 +1,28 @@
+{
+  "name": "pdoc/pdoc",
+  "description": "PHP documentation generator and viewer",
+  "license": "MIT",
+  "homepage": "https://github.com/yieldforpeople/pdoc",
+  "support": {
+    "issues": "https://github.com/yieldforpeople/pdoc/issues",
+    "source": "https://github.com/yieldforpeople/pdoc",
+  },
+  "authors": [
+    {
+      "name": "Jason Silkey",
+      "email": "jason@jasonsilkey.com"
+    }
+  ],
+  "bin": [
+    "bin/pdoc"
+  ],
+  "require": {},
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "optimize-autoloader": true,
+    "discard-changes": true
+  }
+}

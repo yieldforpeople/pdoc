@@ -1,0 +1,3 @@
+#!/bin/sh
+MAN=`which man`
+$MAN -M /usr/local/Cellar/php72/7.2.2_13/lib/php/doc/pman/ $*
